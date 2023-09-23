@@ -1,3 +1,11 @@
+## Overview 
+
+This repo contains weights for a YOLOv8-M model trained on the Argoverse HD datatset for real time object detection and tracking for autonomous driving applications. It also contains code for integrating the model with an Intel Realsense d435 camera or any general hardware address based camera. (Still figuring out a way to upload weights file)
+
+Sample results of the model performance are as below:
+
+
+
 <div align="center">
   <p>
     <a href="https://ultralytics.com/yolov8" target="_blank">
