@@ -1,0 +1,38 @@
+ 18/09 17:51:56,167 DEBUG [19228] (mf-hid.cpp:378) res=pSensorManager->GetSensorsByCategory(SENSOR_CATEGORY_ALL, &pSensorCollection) returned: HResult 0x80070490: "Element not found."
+ 18/09 17:51:56,167 DEBUG [19228] (mf-hid.cpp:378) res=pSensorManager->GetSensorsByCategory(SENSOR_CATEGORY_ALL, &pSensorCollection) returned: HResult 0x80070490: "Element not found."
+ 18/09 17:51:56,183 DEBUG [19228] (d400-factory.cpp:1185) d400_try_fetch_usb_device(...) failed.
+ 18/09 17:51:56,183 INFO [19228] (context.cpp:336) Found 1 RealSense devices (mask 0xfe)
+ 18/09 17:51:56,183 DEBUG [19228] (mf-backend.cpp:197) starting win_event_device_watcher
+ 18/09 17:51:56,278 DEBUG [19228] (mf-hid.cpp:378) res=pSensorManager->GetSensorsByCategory(SENSOR_CATEGORY_ALL, &pSensorCollection) returned: HResult 0x80070490: "Element not found."
+ 18/09 17:51:56,284 DEBUG [19228] (d400-factory.cpp:1185) d400_try_fetch_usb_device(...) failed.
+ 18/09 17:51:56,284 INFO [19228] (context.cpp:336) Found 1 RealSense devices (mask 0xfe)
+ 18/09 17:51:56,284 DEBUG [19228] (mf-backend.cpp:197) starting win_event_device_watcher
+ 18/09 17:51:56,284 DEBUG [19228] (mf-hid.cpp:378) res=pSensorManager->GetSensorsByCategory(SENSOR_CATEGORY_ALL, &pSensorCollection) returned: HResult 0x80070490: "Element not found."
+ 18/09 17:51:56,284 WARNING [18868] (mf-backend.cpp:242) RegisterClass failed.
+ 18/09 17:51:56,287 DEBUG [19228] (d400-factory.cpp:1185) d400_try_fetch_usb_device(...) failed.
+ 18/09 17:51:56,287 INFO [19228] (context.cpp:336) Found 1 RealSense devices (mask 0xfe)
+ 18/09 17:51:56,340 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,340 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,340 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,357 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,357 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,357 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,357 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,374 INFO [19228] (sensor.cpp:1594) Request: Z16 Depth, 
+Resolved to: Z16 Depth, 
+ 18/09 17:51:56,374 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,374 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:51:56,374 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d36b3: "The stream number provided was invalid."
+ 18/09 17:52:11,391 WARNING [19228] (mf-uvc.cpp:1023) First frame took more then 3a98ms to arrive!
+ 18/09 17:52:11,391 DEBUG [19228] (global_timestamp_reader.cpp:176) time_diff_keeper::start: _users_count = 1
+ 18/09 17:52:11,397 DEBUG [19228] (hw-monitor.cpp:196) hwmon command 0x7d( 0 0 0 0 ) failed (response -21= No data to return)
+ 18/09 17:52:11,397 DEBUG [19228] (types.cpp:74) recoverable_exception: hwmon command 0x7d( 0 0 0 0 ) failed (response -21= No data to return)
+ 18/09 17:52:16,403 DEBUG [19228] (mf-backend.cpp:208) stopping win_event_device_watcher
+ 18/09 17:52:16,453 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d3704: "Hardware MFT failed to start streaming due to lack of hardware resources."
+ 18/09 17:52:16,453 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d3704: "Hardware MFT failed to start streaming due to lack of hardware resources."
+ 18/09 17:52:16,453 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d3704: "Hardware MFT failed to start streaming due to lack of hardware resources."
+ 18/09 17:52:16,453 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d3704: "Hardware MFT failed to start streaming due to lack of hardware resources."
+ 18/09 17:52:16,453 DEBUG [19228] (mf-uvc.cpp:907) _reader->GetNativeMediaType(sIndex, k, &pMediaType.p) returned: HResult 0xc00d3704: "Hardware MFT failed to start streaming due to lack of hardware resources."
+ 18/09 17:52:16,453 DEBUG [19228] (global_timestamp_reader.cpp:187) time_diff_keeper::stop: _users_count = 0
+ 18/09 17:52:16,453 DEBUG [19228] (global_timestamp_reader.cpp:190) time_diff_keeper::stop: stop object.
+ 18/09 17:52:16,987 DEBUG [19228] (mf-backend.cpp:208) stopping win_event_device_watcher
